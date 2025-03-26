@@ -4,6 +4,9 @@
 
 CoRE (Collaboration of Role-based Experts) is an innovative AI system that demonstrates a novel approach to collaborative reasoning by leveraging multiple specialized language models. Built on the RaTiO (Reasoning through Interaction of Experts) framework, CoRE showcases how smaller, focused AI models can work together to generate high-quality, nuanced responses.
 
+## Dashboard Demo: https://ratio-core.streamlit.app/ 
+The dashboard UI can be accessed using the above link but the local model functionality won't be performed online, hence follow the instructions below to complement the application on your device.
+
 ## 🚀 Key Features
 
 - **Multi-Expert Collaboration**: Combine insights from different specialized AI models
