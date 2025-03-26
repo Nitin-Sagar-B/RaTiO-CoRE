@@ -82,9 +82,14 @@ CoRE demonstrates:
 - Domain-specific configurations
 - Multi-modal input support
 
-## 📜 License
+## 👥 Collaborators  
+This project is developed and maintained by:  
+- [Boyeena Nitin Sagar](https://github.com/Nitin-Sagar-B)  
+- [Begari Susheel Kumar](https://github.com/specialsusheel)  
+- [Kuchuru Sainath Reddy](https://github.com/sainath-03)  
 
-[MIT]
+## 📜 License  
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.  
 
 ## 🤝 Contributing
 
