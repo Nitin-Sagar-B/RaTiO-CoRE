@@ -97,6 +97,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## 🤝 Contributing
 
 Contributions are welcome! Please read our contributing guidelines before getting started.
+[![Contributors](https://img.shields.io/github/contributors/Nitin-Sagar-B/RaTiO-CoRE?color=blue)](https://github.com/Nitin-Sagar-B/RaTiO-CoRE/graphs/contributors)
 
 ## Acknowledgements
 
